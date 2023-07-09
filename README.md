@@ -1,10 +1,7 @@
-![Cover (2)](https://github.com/micheleambrosio/dio-spiderverse/assets/55519539/2247f062-26e9-4881-a9c8-0fcb17206daa)
+# Projeto NBA Prospects
 
-# Projeto Spider-Verse
 
-Este é o repositório do projeto Spider-Verse, desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me). O projeto consiste em uma aplicação interativa inspirada no universo do Homem-Aranha, usando as principais stacks front-end: React, Next.js 13, a biblioteca Framer Motion, Sass e TypeScript para criar um projeto visual incrível e de alta performance.
-
-[Demonstração do projeto.webm](https://github.com/micheleambrosio/dio-spiderverse/assets/55519539/6ea3a467-ca98-4b3d-aa16-855db8a5fdb0)
+Este é o repositório do projeto NBA Prospects, que faz referência a um projeto desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me). O projeto consiste em uma aplicação interativa inspirada no universo dos principais novatos do ano da liga, usando as principais stacks front-end: React, Next.js 13, a biblioteca Framer Motion, Sass e TypeScript para criar um projeto visual incrível e de alta performance.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -15,13 +12,13 @@ Este é o repositório do projeto Spider-Verse, desenvolvido durante uma live no
 - [Framer Motion](https://www.framer.com/api/motion)
 - [SASS](https://sass-lang.com)
 
-## 📚 Materiais
+## 📚 Materiais (DIO SPIDERVERSE)
 
 - [Link da live no Youtube](https://www.youtube.com/watch?v=d5HVw12uOpk)
 - [Material de apoio com tutorial completo](https://micheleambrosio.notion.site/Live-Criando-um-carrossel-parallax-do-Aranhaverso-com-React-Next-js-13-e-Framer-Motion-67a818e32c2049d39d28ce4a185555c4?pvs=4)
 - [Assets](https://drive.google.com/drive/folders/150O6eEhs8oGaHMMss7_CYG2jnI7yMugO?usp=sharing) (arquivos de imagens e efeitos sonoros)
 
-## 🌿 Branches
+## 🌿 Branches (PROJETO ORIGINAL)
 
 - `main` projeto finalizado com todas as features implementadas durante a live;
 - `template` estrutura inicial para que você possa iniciar o projeto, contendo todos os assets, bibliotecas, estrutura de pastas e configurações de ESLint;
@@ -37,19 +34,18 @@ O projeto está estruturado da seguinte forma:
 
 - 📁 `public`
   - 📁 `icons`
-  - 📁 `songs`
-  - 📁 `spiders`
+  - 📁 `players`
 - 📁 `src`
   - 📁 `app`
     - 📁 `api`
-      - 📁 `heroes`
-    - 📁 `hero`
+      - 📁 `players`
+    - 📁 `player`
       - 📁 `[id]`
   - 📁 `components`
     - 📁 `Carousel`
-    - 📁 `HeroDetails`
-    - 📁 `HeroesList`
-    - 📁 `HeroPicture`
+    - 📁 `PlayerDetails`
+    - 📁 `PlayersList`
+    - 📁 `PlayerPicture`
   - 📁 `fonts`
   - 📁 `interfaces`
 

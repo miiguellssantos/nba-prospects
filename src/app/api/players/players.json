@@ -1,0 +1,35 @@
+[
+  {
+    "id": "wemby",
+    "name": "Victor Wembanyama",
+    "position": "PF/C",
+    "details": {
+      "age": 19,
+      "height": 2.21,
+      "weight": 104, 
+      "wingspan": 2.4
+    }
+  },
+  {
+    "id": "brandon",
+    "name": "Brandon Miller",
+    "position": "SF/SG",
+    "details": {
+      "age": 19,
+      "height": 2.06,
+      "weight": 96, 
+      "wingspan": 2.11
+    }
+  },
+  {
+    "id": "scoot",
+    "name": "Scoot Henderson",
+    "position": "PG",
+    "details": {
+      "age": 19,
+      "height": 1.88,
+      "weight": 88, 
+      "wingspan": 2.06
+    }
+  }
+]
